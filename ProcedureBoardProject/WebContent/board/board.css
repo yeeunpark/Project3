@@ -1,0 +1,13 @@
+td,th{
+	font-family: 타이포_꼬맹이마음, 휴먼매직체;
+	font-size: 12pt;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	
+	text-decoration: underLine;
+	color:green;
+}
